@@ -1,4 +1,4 @@
-# Food-Ordering-Autoamtion
+# Food-Ordering-Automation
 This repository has the code for opening a video on youtube and then ordering pizza from dominos with the help of Puppeteer and NodeJs.
 
 The code has the follwoing:
